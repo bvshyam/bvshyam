@@ -15,8 +15,8 @@
 - Learning new skills in the ocean of coding
 - Writing blogs at [my blogs](https://medium.com/@bvshyam) .
 - Connect with me on:
-  - [All_links] [http://shyambv.bio.link/]
-  - [LinkedIn] [www.linkedin.com/in/shyambv/)
+  - [All_links](http://shyambv.bio.link/)
+  - [Linkedin](www.linkedin.com/in/shyambv/)
   - [Twitter](https://twitter.com/bvshyam)
   - [Medium](https://medium.com/@bvshyam)
   - [Code Sprout](https://codesprout.substack.com/welcome)
