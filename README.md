@@ -15,11 +15,11 @@
 - Learning new skills in the ocean of coding
 - Writing blogs at [my blogs](https://medium.com/@bvshyam) .
 - Connect with me on:
-  - :office: [www.linkedin.com/in/shyambv/)
-  - [![alt text][1.2]][1][Twitter](https://twitter.com/bvshyam)
-- 📫 Learn more about me on:  
-  - :bulb: [Medium](https://medium.com/@bvshyam)
-  - :Newsletter: [Code Sprout](https://codesprout.substack.com/welcome)
+  - [All_links] [http://shyambv.bio.link/]
+  - [LinkedIn] [www.linkedin.com/in/shyambv/)
+  - [Twitter](https://twitter.com/bvshyam)
+  - [Medium](https://medium.com/@bvshyam)
+  - [Code Sprout](https://codesprout.substack.com/welcome)
 
   
 [![Shyam's github stats](https://github-readme-stats.vercel.app/api?username=bvshyam&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
