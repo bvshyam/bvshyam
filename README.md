@@ -17,7 +17,7 @@
 - Connect with me on:
   - [All_links](http://shyambv.bio.link/)
   - [Linkedin](www.linkedin.com/in/shyambv/)
-  - [Twitter](https://twitter.com/bvshyam)
+  - [Twitter](https://twitter.com/shyambv)
   - [Medium](https://medium.com/@bvshyam)
   - [Code Sprout](https://codesprout.substack.com/welcome)
 
